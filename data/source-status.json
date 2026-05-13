@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-13T12:27:43.320862Z",
+  "generated_at": "2026-05-13T15:25:29.162579Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 196,
-      "duration_ms": 3366,
+      "item_count": 186,
+      "duration_ms": 8441,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 2947,
+      "duration_ms": 285,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 43,
+      "duration_ms": 180,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 423,
+      "duration_ms": 465,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 427,
+      "duration_ms": 353,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 494,
-      "duration_ms": 13740,
+      "item_count": 508,
+      "duration_ms": 11076,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 31064,
+      "duration_ms": 8438,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 3043,
-      "duration_ms": 1779,
+      "item_count": 3041,
+      "duration_ms": 1492,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 66,
-      "duration_ms": 688,
+      "item_count": 71,
+      "duration_ms": 452,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 182,
+      "duration_ms": 298,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 923,
+      "duration_ms": 6271,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1704,
+      "duration_ms": 1763,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 149,
-      "duration_ms": 459,
+      "duration_ms": 399,
       "error": null
     },
     {
@@ -110,8 +110,8 @@
       "site_name": "OPML RSS",
       "ok": true,
       "partial_failures": 0,
-      "item_count": 202,
-      "duration_ms": 33008,
+      "item_count": 198,
+      "duration_ms": 28627,
       "error": null,
       "feed_count": 10,
       "effective_feed_count": 10,
@@ -124,9 +124,9 @@
   "successful_sites": 14,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 5391,
-  "items_before_topic_filter": 8088,
-  "items_in_24h": 961,
+  "fetched_raw_items": 5394,
+  "items_before_topic_filter": 7613,
+  "items_in_24h": 930,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
@@ -146,7 +146,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/ftchinese/latest",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 4593,
+        "duration_ms": 4010,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -161,7 +161,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/eastmoney/search/产业",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 2155,
+        "duration_ms": 1120,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -176,7 +176,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/eastmoney/search/出口",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 2369,
+        "duration_ms": 1316,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -191,7 +191,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/eastmoney/search/宏观经济",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 2137,
+        "duration_ms": 1167,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -206,7 +206,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/eastmoney/search/景气度",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 2500,
+        "duration_ms": 1172,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -220,8 +220,8 @@
         "feed_url": "https://rsshub.rssforever.com/wallstreetcn/news/global",
         "effective_feed_url": "https://rsshub.rssforever.com/wallstreetcn/news/global",
         "ok": true,
-        "item_count": 33,
-        "duration_ms": 6075,
+        "item_count": 31,
+        "duration_ms": 575,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -236,7 +236,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/caixinglobal/latest",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 2923,
+        "duration_ms": 9041,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -251,7 +251,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/caixin/latest",
         "ok": true,
         "item_count": 19,
-        "duration_ms": 1145,
+        "duration_ms": 520,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -265,8 +265,8 @@
         "feed_url": "https://rsshub.rssforever.com/cls/depth",
         "effective_feed_url": "https://rsshub.rssforever.com/cls/depth",
         "ok": true,
-        "item_count": 50,
-        "duration_ms": 7998,
+        "item_count": 48,
+        "duration_ms": 9209,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -281,7 +281,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/cls/telegraph",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 1113,
+        "duration_ms": 497,
         "error": null,
         "skipped": false,
         "skip_reason": null,
