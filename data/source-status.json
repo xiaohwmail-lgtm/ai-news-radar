@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-05-14T06:23:06.104314Z",
+  "generated_at": "2026-05-14T09:14:38.617214Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 187,
-      "duration_ms": 7020,
+      "item_count": 197,
+      "duration_ms": 3062,
       "error": null
     },
     {
@@ -14,15 +14,15 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 271,
+      "duration_ms": 334,
       "error": null
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
       "ok": true,
-      "item_count": 2,
-      "duration_ms": 207,
+      "item_count": 5,
+      "duration_ms": 20,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 364,
+      "duration_ms": 418,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 412,
+      "duration_ms": 284,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 429,
-      "duration_ms": 14456,
+      "item_count": 447,
+      "duration_ms": 15432,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 1683,
+      "duration_ms": 3136,
       "error": null
     },
     {
@@ -62,15 +62,15 @@
       "site_name": "TopHub",
       "ok": true,
       "item_count": 3040,
-      "duration_ms": 1373,
+      "duration_ms": 1809,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 72,
-      "duration_ms": 441,
+      "item_count": 71,
+      "duration_ms": 509,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 10,
-      "duration_ms": 385,
+      "duration_ms": 167,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 1258,
+      "duration_ms": 3381,
       "error": null
     },
     {
@@ -94,29 +94,29 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2782,
+      "duration_ms": 2122,
       "error": null
     },
     {
       "site_id": "newsnow",
       "site_name": "NewsNow",
       "ok": true,
-      "item_count": 149,
-      "duration_ms": 598,
+      "item_count": 148,
+      "duration_ms": 413,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 8,
-      "item_count": 40,
-      "duration_ms": 102771,
-      "error": "8 feeds failed",
+      "partial_failures": 9,
+      "item_count": 20,
+      "duration_ms": 115901,
+      "error": "9 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
-      "ok_feed_count": 2,
-      "failed_feed_count": 8,
+      "ok_feed_count": 1,
+      "failed_feed_count": 9,
       "skipped_feed_count": 0,
       "replaced_feed_count": 0
     }
@@ -124,15 +124,15 @@
   "successful_sites": 14,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 5158,
-  "items_before_topic_filter": 7779,
-  "items_in_24h": 912,
+  "fetched_raw_items": 5167,
+  "items_before_topic_filter": 7680,
+  "items_in_24h": 891,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
     "feed_total": 10,
     "effective_feed_total": 10,
-    "ok_feeds": 2,
+    "ok_feeds": 1,
     "failed_feeds": [
       "https://rsshub.rssforever.com/ftchinese/latest",
       "https://rsshub.rssforever.com/eastmoney/search/产业",
@@ -141,6 +141,7 @@
       "https://rsshub.rssforever.com/eastmoney/search/景气度",
       "https://rsshub.rssforever.com/wallstreetcn/news/global",
       "https://rsshub.rssforever.com/caixinglobal/latest",
+      "https://rsshub.rssforever.com/caixin/latest",
       "https://rsshub.rssforever.com/cls/depth"
     ],
     "zero_item_feeds": [],
@@ -155,7 +156,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/ftchinese/latest",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12656,
+        "duration_ms": 12795,
         "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -170,7 +171,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/eastmoney/search/产业",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12660,
+        "duration_ms": 12763,
         "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -185,7 +186,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/eastmoney/search/出口",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12656,
+        "duration_ms": 12775,
         "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -200,7 +201,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/eastmoney/search/宏观经济",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12653,
+        "duration_ms": 12791,
         "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -215,7 +216,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/eastmoney/search/景气度",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12656,
+        "duration_ms": 12769,
         "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -230,7 +231,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/wallstreetcn/news/global",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12665,
+        "duration_ms": 12773,
         "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -245,7 +246,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/caixinglobal/latest",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12654,
+        "duration_ms": 12771,
         "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -258,10 +259,10 @@
         "feed_title": "财新网",
         "feed_url": "https://rsshub.rssforever.com/caixin/latest",
         "effective_feed_url": "https://rsshub.rssforever.com/caixin/latest",
-        "ok": true,
-        "item_count": 20,
-        "duration_ms": 743,
-        "error": null,
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 12799,
+        "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -275,7 +276,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/cls/depth",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 12669,
+        "duration_ms": 12777,
         "error": "HTTPSConnectionPool(host='rsshub.rssforever.com', port=443): Read timed out. (read timeout=12)",
         "skipped": false,
         "skip_reason": null,
@@ -290,7 +291,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/cls/telegraph",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 759,
+        "duration_ms": 888,
         "error": null,
         "skipped": false,
         "skip_reason": null,
