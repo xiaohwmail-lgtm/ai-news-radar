@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-07-04T22:27:21.083634Z",
+  "generated_at": "2026-07-04T23:31:55.146329Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 184,
-      "duration_ms": 7739,
+      "duration_ms": 3169,
       "error": null
     },
     {
       "site_id": "aibreakfast",
       "site_name": "AI Breakfast",
       "ok": true,
-      "item_count": 7,
-      "duration_ms": 265,
+      "item_count": 9,
+      "duration_ms": 528,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 39,
-      "duration_ms": 28,
+      "duration_ms": 40,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 450,
+      "duration_ms": 394,
       "error": null
     },
     {
@@ -38,15 +38,15 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 744,
-      "duration_ms": 335,
+      "duration_ms": 307,
       "error": null
     },
     {
       "site_id": "iris",
       "site_name": "Info Flow",
       "ok": true,
-      "item_count": 346,
-      "duration_ms": 13675,
+      "item_count": 348,
+      "duration_ms": 19549,
       "error": null
     },
     {
@@ -54,23 +54,23 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 705,
+      "duration_ms": 1588,
       "error": null
     },
     {
       "site_id": "tophub",
       "site_name": "TopHub",
       "ok": true,
-      "item_count": 2949,
-      "duration_ms": 1709,
+      "item_count": 2987,
+      "duration_ms": 1489,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 65,
-      "duration_ms": 476,
+      "item_count": 54,
+      "duration_ms": 391,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 382,
+      "duration_ms": 304,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 3939,
+      "duration_ms": 2189,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AI HOT",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 774,
+      "duration_ms": 1589,
       "error": null
     },
     {
@@ -102,21 +102,21 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 128,
-      "duration_ms": 655,
+      "duration_ms": 774,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 2,
-      "item_count": 134,
-      "duration_ms": 30303,
-      "error": "2 feeds failed",
+      "partial_failures": 0,
+      "item_count": 165,
+      "duration_ms": 22234,
+      "error": null,
       "feed_count": 10,
       "effective_feed_count": 10,
-      "ok_feed_count": 8,
-      "failed_feed_count": 2,
+      "ok_feed_count": 10,
+      "failed_feed_count": 0,
       "skipped_feed_count": 0,
       "replaced_feed_count": 0
     }
@@ -124,20 +124,19 @@
   "successful_sites": 14,
   "failed_sites": [],
   "zero_item_sites": [],
-  "fetched_raw_items": 5073,
-  "items_before_topic_filter": 5250,
-  "items_in_24h": 448,
+  "fetched_raw_items": 5135,
+  "items_before_topic_filter": 5091,
+  "items_in_24h": 420,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
     "feed_total": 10,
     "effective_feed_total": 10,
-    "ok_feeds": 8,
-    "failed_feeds": [
-      "https://rsshub.rssforever.com/cls/depth",
+    "ok_feeds": 10,
+    "failed_feeds": [],
+    "zero_item_feeds": [
       "https://rsshub.rssforever.com/cls/telegraph"
     ],
-    "zero_item_feeds": [],
     "skipped_feeds": [],
     "replaced_feeds": [],
     "feeds": [
@@ -149,7 +148,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/ftchinese/latest",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 4464,
+        "duration_ms": 1671,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -164,7 +163,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/eastmoney/search/产业",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 1539,
+        "duration_ms": 1918,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -179,7 +178,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/eastmoney/search/出口",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 1460,
+        "duration_ms": 1588,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -194,7 +193,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/eastmoney/search/宏观经济",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 1573,
+        "duration_ms": 1858,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -209,7 +208,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/eastmoney/search/景气度",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 1447,
+        "duration_ms": 1937,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -224,7 +223,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/wallstreetcn/news/global",
         "ok": true,
         "item_count": 34,
-        "duration_ms": 1045,
+        "duration_ms": 1071,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -239,7 +238,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/caixinglobal/latest",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 6935,
+        "duration_ms": 5460,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -254,7 +253,7 @@
         "effective_feed_url": "https://rsshub.rssforever.com/caixin/latest",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 2694,
+        "duration_ms": 2561,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -267,10 +266,10 @@
         "feed_title": "财联社深度",
         "feed_url": "https://rsshub.rssforever.com/cls/depth",
         "effective_feed_url": "https://rsshub.rssforever.com/cls/depth",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 7560,
-        "error": "503 Server Error: Service Unavailable for url: https://rsshub.rssforever.com/cls/depth",
+        "ok": true,
+        "item_count": 31,
+        "duration_ms": 2459,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -282,10 +281,10 @@
         "feed_title": "财联社电报",
         "feed_url": "https://rsshub.rssforever.com/cls/telegraph",
         "effective_feed_url": "https://rsshub.rssforever.com/cls/telegraph",
-        "ok": false,
+        "ok": true,
         "item_count": 0,
-        "duration_ms": 1586,
-        "error": "503 Server Error: Service Unavailable for url: https://rsshub.rssforever.com/cls/telegraph",
+        "duration_ms": 1711,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
